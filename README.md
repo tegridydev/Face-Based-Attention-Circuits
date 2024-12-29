@@ -44,3 +44,5 @@ For multi-modal tasks, encodes information from other modalities, such as visual
 Focuses on aspects related to intended meaning and communicative function, such as sentiment, irony, or speaker intent.
 
 The number and type of faces can be tailored to specific applications and domains.
+
+![Visual diagram Face-Based Attention Circuits (FBAC) - The "Embedding Cube"](diagrams/FBAC-embedding-cube.png)
